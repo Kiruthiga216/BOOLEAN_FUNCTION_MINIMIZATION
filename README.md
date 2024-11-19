@@ -1,4 +1,8 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+EXPERIMENT 2: BOOLEAN FUNCTION MINIMIZATION
+
+NAME:KIRUTHIGA.B
+
+ROLL NUMBER:24900863
 
 **AIM:**
 
@@ -12,11 +16,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 Hardware – PCs, Cyclone II , USB flasher
 
-**Software – Quartus prime**
-
-**Theory**
-
-**Logic Diagram**
+Software – Quartus prime
 
 **Procedure**
 
@@ -35,16 +35,21 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+![de ex10sc3](https://github.com/user-attachments/assets/1e484013-7966-4cf0-b507-4170c21ec035)
+
 
 
 **RTL realization**
 
-**Output:**
 
-**RTL**
+![de ex10 sc2](https://github.com/user-attachments/assets/eccbf5bb-055b-45ee-b26d-ff660102fc11)
 
-**Timing Diagram**
+
+**Output/Timing Diagram:**
+
+
+![de ex10sc1](https://github.com/user-attachments/assets/cc25dc35-da71-45c8-a407-d5645c0ce0b4)
+
 
 **Result:**
 
